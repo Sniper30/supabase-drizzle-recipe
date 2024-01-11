@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704954091725,
+      "tag": "0000_dusty_hercules",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704954721458,
+      "tag": "0001_clever_carmella_unuscione",
+      "breakpoints": true
+    }
+  ]
+}

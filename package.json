@@ -1,0 +1,20 @@
+{
+  "name": "supabase01_init_learning_progress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate":"npx drizzle-kit generate:pg"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "drizzle-orm": "^0.29.3",
+    "postgres": "^3.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "drizzle-kit": "^0.20.10"
+  }
+}
